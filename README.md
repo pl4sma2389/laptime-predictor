@@ -15,6 +15,6 @@ This program's goal is to take laptimes with correlated track temperature, tyre 
 
 ## Procedure:
 - [ ] Load data from .json exported from ARC or load data from manually constructed spreadsheet
-- [ ] Filter out unimportant data from ARC such as names, info, stuff like that
-- [ ] If using ARC, add in 
+- [ ] Filter out unimportant data from ARC such as names, info, etc
+- [ ] If using ARC, add in other values, such as FRB value, springs value, etc
 - [ ] Create graph from laptimes and a selected other value
